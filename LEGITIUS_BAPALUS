@@ -1,0 +1,492 @@
+{
+  "Backtrack": {
+    "Enabled": true
+  },
+  "Chams": {
+    "Allies": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Attachements": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Backtrack": {
+      "Materials": [
+        {
+          "Enabled": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Defusing": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Desync": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Enemies": {
+      "Materials": [
+        {
+          "Enabled": true,
+          "Health based": true
+        },
+        {
+          "Enabled": true,
+          "Ignore-Z": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Hands": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Local player": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Planting": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Ragdolls": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Sleeves": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Weapons": {
+      "Materials": [
+        {
+          "Alpha": 0.8805032,
+          "Color": "#ff0000",
+          "Enabled": true,
+          "Material": 7
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  },
+  "Draw legitbot fov": {
+    "Alpha": 0.25,
+    "Color": "#ffffff"
+  },
+  "ESP": {
+    "Projectiles": {
+      "All": {
+        "Enabled": true,
+        "Name": {
+          "Enabled": true
+        },
+        "Trails": {
+          "Enabled": true,
+          "Enemies": {
+            "Alpha": 1.0,
+            "Color": "#ff0000",
+            "Enabled": true
+          },
+          "Local Player": {
+            "Enabled": true
+          }
+        }
+      }
+    }
+  },
+  "Force baim": {
+    "Key": "NONE",
+    "Key mode": 0
+  },
+  "Legitbot": [
+    {
+      "Between shots": false,
+      "Enabled": true,
+      "Reaction time": 0,
+      "Scoped only": false,
+      "Visible only": false
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Min damage override Key": {
+    "Key": "NONE",
+    "Key mode": 0
+  },
+  "Misc": {
+    "Adblock": true,
+    "Anti AFK kick": true,
+    "Auto accept": true,
+    "Auto pixel surf": true,
+    "Block bot": true,
+    "Block bot Key": {
+      "Key": "MOUSE4",
+      "Key mode": 3
+    },
+    "Bunny hop": true,
+    "Custom Hit Sound": "nlsound",
+    "Custom Kill Sound": "rust",
+    "Disable HUD blur": true,
+    "Disable model occlusion": true,
+    "Fast plant": true,
+    "Fix tablet signal": true,
+    "Gravity force": -217159954,
+    "Grenade predict": true,
+    "Grenade predict Damage": {
+      "Enabled": true
+    },
+    "Hit sound": 5,
+    "Jump Bug": true,
+    "Jump Bug Key": {
+      "Key": "MOUSE5",
+      "Key mode": 2
+    },
+    "Keybind list": {
+      "Enabled": true,
+      "No Title Bar": true,
+      "Pos": {
+        "X": 585.0,
+        "Y": 41.0
+      }
+    },
+    "Kill sound": 5,
+    "Noscope crosshair": true,
+    "Opposite Hand Knife": true,
+    "Radar hack": true,
+    "Reveal money": true,
+    "Reveal ranks": true,
+    "Reveal suspect": true,
+    "Reveal votes": true,
+    "Watermark": true,
+    "no borders": false
+  },
+  "Rage Anti aim": {
+    "Manual backward Key": {
+      "Key": "NONE",
+      "Key mode": 0
+    },
+    "Manual forward Key": {
+      "Key": "NONE",
+      "Key mode": 0
+    },
+    "Manual left Key": {
+      "Key": "NONE",
+      "Key mode": 0
+    },
+    "Manual right Key": {
+      "Key": "NONE",
+      "Key mode": 0
+    }
+  },
+  "Ragebot": [
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Skin changer": [
+    {
+      "Definition index": 42,
+      "Definition override": 523,
+      "Enabled": true,
+      "Paint Kit": 415,
+      "Quality": 7,
+      "StatTrak": 5
+    },
+    {
+      "Definition index": 5028,
+      "Definition override": 5032,
+      "Enabled": true,
+      "Paint Kit": 10084,
+      "Quality": 2
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Sound": {
+    "Players": [
+      {},
+      {},
+      {}
+    ]
+  },
+  "Triggerbot": [
+    {
+      "Hitchance": 0
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Triggerbot Key": {
+    "Key": "NONE",
+    "Key mode": 0
+  },
+  "Visuals": {
+    "Bullet Impacts time": 2.69,
+    "Deagle spinner": true,
+    "Disable jiggle bones": true,
+    "Disable post-processing": true,
+    "FOV": 10,
+    "Map color": {
+      "Color": [
+        0.539267,
+        0.5364436,
+        0.5364436
+      ],
+      "Enabled": true
+    },
+    "No 3d sky": true,
+    "No blur": true,
+    "No fog": true,
+    "No grass": true,
+    "No shadows": true,
+    "No sleeves": true,
+    "No view bob": true,
+    "Playermodel CT": 61,
+    "Playermodel T": 61,
+    "Skybox": 14,
+    "Skybox Color": {
+      "Color": [
+        0.20418847,
+        0.20418642,
+        0.20418642
+      ],
+      "Enabled": true
+    },
+    "Thirdperson": true,
+    "Thirdperson distance": 120,
+    "Thirdperson key": {
+      "Key": "V",
+      "Key mode": 3
+    },
+    "Viewmodel": {
+      "Enabled": true,
+      "Fov": 10,
+      "X": 6.9751,
+      "Y": 6.121,
+      "Z": -2.847
+    }
+  }
+}
